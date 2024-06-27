@@ -124,7 +124,7 @@ const CloudPlatformCalculator = () => {
     <div className="cloud-platform-calculator">
     <div className="header">
     <h1 style={{ textAlign: 'center', fontSize: '24px' }}>Uconnect Hackathon 2024</h1>
-    <img src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/veritas-technologies.jpg" alt="Vertiras Logo" style={{ display: 'block', margin: '0 auto', width: '300px' }} />
+    {/* <img src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/veritas-technologies.jpg" alt="Vertiras Logo" style={{ display: 'block', margin: '0 auto', width: '300px' }} /> */}
     <h2 style={{ textAlign: 'center', fontSize: '20px', marginBottom: '20px' }}>Total Cost of Ownership (TCO) Calculator</h2>
       </div>
       <h1 style={{ fontSize: '24px', fontFamily: 'Arial', fontWeight: 'bold' }}>Empower decision-making by estimating total costs effortlessly using our TCO calculator</h1>
